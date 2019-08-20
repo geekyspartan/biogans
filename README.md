@@ -33,11 +33,6 @@ Anton Osokin, Anatole Chessel, Rafael E. Carazo Salas and Federico Vaggi, GANs f
 * [Rafael E. Carazo Salas](http://research-information.bristol.ac.uk/en/persons/rafael-e-carazo-salas(a7638b29-53e4-49ba-82b5-98b21d82f41f).html)
 * [Federico Vaggi](https://scholar.google.it/citations?user=rgIbvJsAAAAJ&hl=en)
 
-### Authors of modified Biogan code(GAN for yeast cells)
-
-* [Anurag Arora](https://github.com/geekyspartan)
-* [Renu Rani](https://github.com/techiepanda)
-
 
 ### Requirements
 
